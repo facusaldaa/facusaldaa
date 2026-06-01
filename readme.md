@@ -1,18 +1,20 @@
 # 👋 Hi, I'm Facundo Saldaña
 
-💻 **Full-Stack Software Engineer** with 4+ years of experience building scalable web applications, financial platforms, and enterprise solutions.  
+💻 **Full-Stack Software Engineer** with 5+ years of experience building scalable web applications, financial platforms, and enterprise solutions.  
 🌍 Based in Buenos Aires, Argentina.
 
 ---
 
 ## 🚀 About Me
 
-- Experienced in **Angular (latest versions), TypeScript, Spring Boot, and Java (8–17)**
-- Built solutions for **financial and insurance platforms**
-- Strong background in API integrations and microfrontends
+- Experienced in **Angular (latest versions), TypeScript, Spring Boot, Java (8–17), and Go**
+- Built solutions for **financial, insurance, and internal enterprise platforms**
+- Strong focus on **product ownership, process optimization, and scalable architecture**
+- Developed internal tools that improved HR and operational workflows by replacing manual Excel-based processes
+- Experienced with API integrations, microfrontends, and enterprise-grade applications
 - Quality assurance advocate: **Jest, Playwright, JUnit**
 - Hands-on with **CI/CD pipelines, Kubernetes, Helm, Docker, AWS & GCP**
-- Passionate about clean, maintainable code and scalable architecture
+- Passionate about clean, maintainable code and building products with real business impact
 
 ---
 
